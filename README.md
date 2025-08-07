@@ -46,6 +46,3 @@ src/
 
 🚧 Em desenvolvimento — projeto pessoal com fins de aprendizado prático em Java, modelagem de sistemas e boas práticas de arquitetura (MVC).
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
